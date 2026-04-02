@@ -32,6 +32,8 @@ Prepared a phishing case study and prevention guide.
 
 ---
 ---
+## 🔗 Useful Links
+- Google Form: https://forms.gle/oPqa7MnbiZzixMX98
 
 ##  Folder Structure
 - task-1-presentation/
